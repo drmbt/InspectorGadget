@@ -1,5 +1,6 @@
 #INSPECTOR GADGET
 
+![](inspectorGadget.png)
 InspectorGadget is a part of the HIVE family ofTouchDesigner components and scripts 
 by [Vincent Naples](maiilto:Vincent@drmbt.com) [@drmbt](instagram.com/drmbt)
 
