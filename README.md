@@ -1,7 +1,7 @@
 #INSPECTOR GADGET
 
 InspectorGadget is a part of the HIVE family ofTouchDesigner components and scripts 
-by [Vincent Naples]{maiilto:Vincent@drmbt.com} [@drmbt](instagram.com/drmbt)
+by [Vincent Naples](maiilto:Vincent@drmbt.com) [@drmbt](instagram.com/drmbt)
 
 Inspector Gadget is a global component referenced as op.INSPECTORGADGET
 that stores persistent, reliable and dependable values for ui elements
@@ -15,20 +15,20 @@ ported from Tscript to Python yet
 
 ##Parameters
 
-Rolloverpar:
+Rolloverpar:  
     returns the last rolled over parameter in a network or parameterCOMP ui element
 
-Rolloverop
+Rolloverop:  
     return the last rolled over operator in a network
 
-Selectop
+Selectop:  
 	return the currently selected op path in a network
 
-Rollovergadget
+Rollovergadget:  
     return the currently rolled over ui element (gadget is Tscript talk for active panels)
 
-Selectgadget
+Selectgadget:  
     return the last clicked on panel
 
-Insidegadget
+Insidegadget:  
     return a gedget the mouse is currently hovering over
